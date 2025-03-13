@@ -10,6 +10,11 @@ The dataset used in this project contains various real estate features including
 - Square feet area
 - Number of bathrooms
 - Price
+- area_type
+- availability
+- society
+- total_sqft
+- balcony
 
 ## Technologies Used
 - Python
@@ -20,9 +25,7 @@ The dataset used in this project contains various real estate features including
 
 ## Project Structure
 ```
-|-- data/                   # Contains dataset files
 |-- notebooks/              # Google colab for EDA and model training
-|-- static/                 # CSS and JavaScript files (if needed)
 |-- templates/              # HTML files for Flask UI
 |-- main.py                  # Main Flask application file
 |-- README.md               # Project documentation
